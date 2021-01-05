@@ -1,0 +1,23 @@
+{
+  "name": "Dota",
+  "version": "1.0.0",
+  "description": "Dota - Web Scraping Node.js &amp; Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VardanMelik/Dota---Web-Scraping-Node.js-Puppeteer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VardanMelik/Dota---Web-Scraping-Node.js-Puppeteer/issues"
+  },
+  "homepage": "https://github.com/VardanMelik/Dota---Web-Scraping-Node.js-Puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
